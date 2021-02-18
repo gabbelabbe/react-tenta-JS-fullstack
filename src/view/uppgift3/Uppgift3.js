@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from 'react'
-import StarwarsService from '../../shared/api/service/StarwarsService'
+import { getPerson } from '../../shared/api/StarwarsAPI'
 
 export const Uppgift3 = () => {
 	const [character, setCharacter] = useState([])
 	const [count, setCount] = useState(1)
 
 	const getCharacterNameFromStarwarsAPI = async () => {
-		const { data } = await StarwarsService.getStarwarsCharacter(count)
+		const { data } = await getPerson(count)
 		setCharacter(data)
 	}
 
