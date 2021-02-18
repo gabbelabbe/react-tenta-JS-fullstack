@@ -1,6 +1,6 @@
 ## Länk till sidan
 
-https://react-tenta-js-fullstack.vercel.app/
+<a href="https://react-tenta-js-fullstack.vercel.app/" target="_blank" rel="noopener">https://react-tenta-js-fullstack.vercel.app/</a>
 
 _____________________________________________________________________________________
 
