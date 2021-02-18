@@ -1,3 +1,10 @@
+## Länk till sidan
+
+https://react-tenta-js-fullstack.vercel.app/
+
+_____________________________________________________________________________________
+
+
 React - Tentamen
 
 OBS: För att ordentligt kunna utföra denna tentamen är det rekommenderat att du har Node.js & GIT lokalt installerat på din hårdvara.
@@ -51,5 +58,3 @@ Avslutat tentamen sker med länk till gitprojektet i PingPong
 
 Lycka till!
 Arasto
-
-
