@@ -3,7 +3,7 @@ import React from 'react'
 export const Introduktion = ({ firstName, lastName, course }) => {
 	return (
 		<div className="introduktion">
-			<h2>Förnamn: {firstName}</h2>
+			<h2>Firstname: {firstName}</h2>
 			<h2>Efternamn: {lastName}</h2>
 			<h2>Kurs: {course}</h2>
 		</div>
